@@ -55,5 +55,4 @@ Repositoryt är byggt för att kunna användas stegvis:
 
 > Vilket problem löser detta steg, och vad riskerar vi om steget saknas?
 
-
-Dag 1: testade branch, commit och pull request.
+Dag 1: ändring via branch och pull request.
