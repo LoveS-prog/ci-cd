@@ -57,3 +57,6 @@ Repositoryt är byggt för att kunna användas stegvis:
 
 
 Dag 1: testade branch, commit och pull request.
+
+
+Dag 4: Docker-bygget körs i CI efter testerna.
